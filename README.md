@@ -15,10 +15,6 @@ This project focuses on analyzing a dataset of credit card transactions and deve
 - Postgres, SQL for database management
 - Microsoft PowerBI for data visualization
 
-## Usage
-
-
-
 ## Folder Structure
 
 ```
