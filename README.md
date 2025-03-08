@@ -19,14 +19,14 @@ This project focuses on analyzing a dataset of credit card transactions and deve
 
 ```
 📂 Credit-Card-Transaction-Report
- ├── 📂 dashboards
- ├── 📂 data
- ├── 📂 images
- ├── 📂 sql srcipts
- ├── 📜 .gitignore
- ├── 📜 Credit-Card-Transaction-Report.pbix
- ├── 📜 README.md            
- ├── 📜 docker-compose.yaml
- ├── 📜 format_datestyle.ipynb
- ├── 📜 requirements.txt      
+ ├── 📂 dashboards                                   # PDF version of the dashboards
+ ├── 📂 data                                         # The datasets for this project
+ ├── 📂 images                                       # The images supporting this project 
+ ├── 📂 sql srcipts                                  # SQL scripts for database creation and management
+ ├── 📜 .gitignore                                   # Speciafy untracked directories by Git
+ ├── 📜 Credit-Card-Transaction-Report.pbix          # The original PowerBI dashboard file
+ ├── 📜 README.md                                    # Project documents
+ ├── 📜 docker-compose.yaml                          # Script for setting up Docker container
+ ├── 📜 format_datestyle.ipynb                       # Notebook for data transformation
+ ├── 📜 requirements.txt                             # Required packages for this project
 ```
