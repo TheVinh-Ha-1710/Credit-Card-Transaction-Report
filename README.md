@@ -1,21 +1,25 @@
 # Credit Card Transaction Report
 
-## Description
+## Overview
 
-This project focuses on analyzing a dataset of credit card transactions and developing interactive Power BI dashboards to extract meaningful insights.
+The problem addressed in this project is the need to analyze and extract valuable insights from a large dataset of over 10,000 credit card transaction records. Efficient data transformation, storage, and visualization are essential for detecting patterns and improving decision-making.
+
+This approach is both stable and sustainable, leveraging Python for robust data processing, PostgreSQL for scalable and efficient storage, and Docker for a portable, consistent environment. The use of Docker ensures that the pipeline can be easily deployed and maintained, providing flexibility and reproducibility for future iterations.
+
+The tech stack was chosen for its reliability and scalability. Python (Pandas, NumPy) is well-suited for data manipulation and transformation. PostgreSQL offers a powerful, open-source database solution that ensures structured data management and fast querying, while Docker ensures ease of deployment across different environments. Power BI was selected for its interactive, user-friendly dashboards, enabling clear, actionable insights. This combination provides a strong foundation for sustainable data pipeline development and visualization.
+
+## Workflow Modeling
 
 ![Diagram](images/CC-Report-Diagram.png)
 
-## Dashboards Preview
+1. Python, Pandas, NumPy for data cleaning and transformation.
+2. Docker for database server hosting.
+3. PostgreSQL for database management.
+4. Microsoft PowerBI for data visualization.
+
+## Preview
 
 ![Dashboard Screenshot](images/Credit_Card_Transactions_Report.jpg)
-
-## Technologies Used
-
-- Python, Pandas, NumPy for data manipulation
-- Docker for database server hosting
-- PostgreSQL for database management
-- Microsoft PowerBI for data visualization
 
 ## Folder Structure
 
