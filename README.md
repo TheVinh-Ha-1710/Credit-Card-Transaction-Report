@@ -12,7 +12,7 @@ This project focuses on analyzing a dataset of credit card transactions and deve
 
 - Python, Pandas, NumPy for data manipulation
 - Docker for database server hosting
-- Postgres, SQL for database management
+- PostgreSQL for database management
 - Microsoft PowerBI for data visualization
 
 ## Folder Structure
