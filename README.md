@@ -4,6 +4,8 @@
 
 This project focuses on analyzing a dataset of credit card transactions and developing interactive Power BI dashboards to extract meaningful insights.
 
+![Diagram](images/CC-Report-Diagram.png)
+
 ## Dashboards Preview
 
 ![Dashboard Screenshot](images/Credit_Card_Transactions_Report.jpg)
