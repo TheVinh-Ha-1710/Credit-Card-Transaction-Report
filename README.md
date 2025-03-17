@@ -8,9 +8,11 @@ This approach is both stable and sustainable, leveraging Python for robust data 
 
 The tech stack was chosen for its reliability and scalability. Python (Pandas, NumPy) is well-suited for data manipulation and transformation. PostgreSQL offers a powerful, open-source database solution that ensures structured data management and fast querying, while Docker ensures ease of deployment across different environments. Power BI was selected for its interactive, user-friendly dashboards, enabling clear, actionable insights. This combination provides a strong foundation for sustainable data pipeline development and visualization.
 
-## 📁 Datasets Summary
+## 📁 Dataset Summary
 
-This project utilizes transaction and customer data from 2023:
+Since banking and financial transaction data is not publicly available due to privacy and security reasons, this project uses simulated data to analyze credit card transactions. The dataset is designed to reflect realistic spending patterns, customer demographics, and transaction behaviors. This simulation ensures that the insights and analysis remain relevant for business decision-making while maintaining data privacy and compliance.
+
+The dataset contains transaction and customer data of a bank in 2023:
 
 1️ **credit_card.csv** – Transaction records for the entire year.
 
