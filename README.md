@@ -15,7 +15,6 @@ This project utilizes transaction and customer data from 2023:
 1. **credit_card.csv** – Transaction records for the entire year.
 
 - *Client_Num* serves as a foreign key.
-- No primary key; a composite key is required.
 
 2. **customer.csv** – Demographic details of customers who made transactions.
 
