@@ -12,16 +12,16 @@ The tech stack was chosen for its reliability and scalability. Python (Pandas, N
 
 This project utilizes transaction and customer data from 2023:
 
-1. *credit_card.csv* – Transaction records for the entire year.
+1. **credit_card.csv** – Transaction records for the entire year.
 
-- Client_Num serves as a foreign key.
+- *Client_Num* serves as a foreign key.
 - No primary key; a composite key is required.
 
-2. *customer.csv* – Demographic details of customers who made transactions.
+2. **customer.csv** – Demographic details of customers who made transactions.
 
-- Client_Num is the primary key.
+- *Client_Num* is the primary key.
 
-3. *cc_add.csv* and *cust_add.csv* - Additional data for main datasets 
+3. **cc_add.csv** and **cust_add.csv** - Additional data for main datasets
 
 ## Workflow Design
 
