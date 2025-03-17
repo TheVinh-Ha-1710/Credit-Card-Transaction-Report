@@ -50,7 +50,8 @@ This project utilizes transaction and customer data from 2023:
 
 - Total Interest Earned: $7.8M
 
-➡️ Quarterly Trends: Revenue remains stable across Q1 to Q4, with Q3 having the highest revenue and transaction count.
+✨ ***Quarterly Trends*: Revenue remains stable across Q1 to Q4, with Q3 having the highest revenue and transaction count.**
+
 
 2️⃣ Card Category Performance
 
@@ -60,7 +61,8 @@ This project utilizes transaction and customer data from 2023:
 
 - Gold ($2.4M) and Platinum ($1.1M) cards have lower contributions.
 
-➡️ Blue Cards are the most widely used, while premium cards (Gold & Platinum) cater to a niche audience.
+✨ **Blue Cards are the most widely used, while premium cards (Gold & Platinum) cater to a niche audience.**
+
 
 3️⃣ Payment Method Preference
 
@@ -70,7 +72,8 @@ This project utilizes transaction and customer data from 2023:
   
 - Online payments are the least preferred at $3M.
   
-➡️ Customers prefer physical card transactions over digital payments.
+✨ **Customers prefer physical card transactions over digital payments.**
+
 
 4️⃣ Customer Demographics
 
@@ -86,7 +89,8 @@ This project utilizes transaction and customer data from 2023:
 
   - Doctorate holders contribute the least ($2M).
 
-➡️ Higher education correlates with increased spending.
+✨ **Higher education correlates with increased spending.**
+
 
 5️⃣ Spending Behavior
 
@@ -96,11 +100,12 @@ This project utilizes transaction and customer data from 2023:
 
 - Travel spending is the lowest ($6M).
 
-➡️ Essential expenses drive most of the transactions.
+✨ **Essential expenses drive most of the transactions.**
+
 
 6️⃣ Card Type Preference
 
-Blue Cards dominate the market with $46M in revenue.
+✨ **Blue Cards dominate the market with $46M in revenue.**
 
 ## Project Structure
 
