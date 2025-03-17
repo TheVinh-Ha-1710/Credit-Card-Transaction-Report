@@ -34,11 +34,9 @@ This project utilizes transaction and customer data from 2023:
 
 4️⃣ Microsoft PowerBI for data visualization.
 
-## Preview
+## 📊 Insights from the Credit Card Transaction Report
 
 ![Dashboard Screenshot](images/Credit_Card_Transactions_Report.jpg)
-
-## 📊 Insights from the Credit Card Transaction Report
 
 1️ Overall Performance
 
@@ -52,7 +50,6 @@ This project utilizes transaction and customer data from 2023:
 
 ✨ ***Quarterly Trends*: Revenue remains stable across Q1 to Q4, with Q3 having the highest revenue and transaction count.**
 
-
 2️⃣ Card Category Performance
 
 🔹 Blue Cards dominate with $46.1M in revenue, the highest transaction volume, and interest earned.
@@ -63,7 +60,6 @@ This project utilizes transaction and customer data from 2023:
 
 ✨ **Blue Cards are the most widely used, while premium cards (Gold & Platinum) cater to a niche audience.**
 
-
 3️⃣ Payment Method Preference
 
 🔹 Swipe Payments are the most popular, generating $35M in revenue.
@@ -73,7 +69,6 @@ This project utilizes transaction and customer data from 2023:
 🔹 Online payments are the least preferred at $3M.
   
 ✨ **Customers prefer physical card transactions over digital payments.**
-
 
 4️⃣ Customer Demographics
 
@@ -91,7 +86,6 @@ This project utilizes transaction and customer data from 2023:
 
 ✨ **Higher education correlates with increased spending.**
 
-
 5️⃣ Spending Behavior
 
 🔹 Bills (Utilities, rent, etc.) contribute the highest revenue ($14M).
@@ -101,7 +95,6 @@ This project utilizes transaction and customer data from 2023:
 🔹 Travel spending is the lowest ($6M).
 
 ✨ **Essential expenses drive most of the transactions.**
-
 
 6️⃣ Card Type Preference
 
@@ -121,9 +114,9 @@ This project utilizes transaction and customer data from 2023:
 
 🔹 Online payments contribute the least ($3M)—consider incentives like:
 
-    Discounts on online purchases
+    - Discounts on online purchases
 
-    Bonus rewards for digital transactions
+    - Bonus rewards for digital transactions
 
 🔹 Educate customers on the security and convenience of online payments.
 
@@ -143,9 +136,9 @@ This project utilizes transaction and customer data from 2023:
 
 🔹 The low revenue from Gold ($2.4M) and Platinum ($1.1M) cards suggests poor adoption—consider:
 
-    Lowering annual fees to attract users.
+    - Lowering annual fees to attract users.
 
-    Exclusive travel, dining, or luxury shopping benefits to differentiate from standard cards.
+    - Exclusive travel, dining, or luxury shopping benefits to differentiate from standard cards.
 
 6️⃣ Promote Contactless & Chip Payments 📲
 
