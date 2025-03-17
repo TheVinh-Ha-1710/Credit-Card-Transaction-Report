@@ -74,15 +74,15 @@ This project utilizes transaction and customer data from 2023:
 
 🔹 By Occupation:
   
-  - Businessmen contribute the highest revenue ($17M), followed by White-collar workers ($10M).
+	- Businessmen contribute the highest revenue ($17M), followed by White-collar workers ($10M).
   
-  - Retirees generate the least revenue ($5M).
+	- Retirees generate the least revenue ($5M).
 
 🔹 By Education Level:
 
-  - Graduates are the highest spenders ($22M), followed by High School ($11M) and Unknown ($8M).
+	- Graduates are the highest spenders ($22M), followed by High School ($11M) and Unknown ($8M).
 
-  - Doctorate holders contribute the least ($2M).
+	- Doctorate holders contribute the least ($2M).
 
 ✨ **Higher education correlates with increased spending.**
 
@@ -114,9 +114,9 @@ This project utilizes transaction and customer data from 2023:
 
 🔹 Online payments contribute the least ($3M)—consider incentives like:
 
-    - Discounts on online purchases
+	- Discounts on online purchases
 
-    - Bonus rewards for digital transactions
+	- Bonus rewards for digital transactions
 
 🔹 Educate customers on the security and convenience of online payments.
 
@@ -136,9 +136,9 @@ This project utilizes transaction and customer data from 2023:
 
 🔹 The low revenue from Gold ($2.4M) and Platinum ($1.1M) cards suggests poor adoption—consider:
 
-    - Lowering annual fees to attract users.
+	- Lowering annual fees to attract users.
 
-    - Exclusive travel, dining, or luxury shopping benefits to differentiate from standard cards.
+	- Exclusive travel, dining, or luxury shopping benefits to differentiate from standard cards.
 
 6️⃣ Promote Contactless & Chip Payments 📲
 
