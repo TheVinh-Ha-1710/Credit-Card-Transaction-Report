@@ -8,7 +8,22 @@ This approach is both stable and sustainable, leveraging Python for robust data 
 
 The tech stack was chosen for its reliability and scalability. Python (Pandas, NumPy) is well-suited for data manipulation and transformation. PostgreSQL offers a powerful, open-source database solution that ensures structured data management and fast querying, while Docker ensures ease of deployment across different environments. Power BI was selected for its interactive, user-friendly dashboards, enabling clear, actionable insights. This combination provides a strong foundation for sustainable data pipeline development and visualization.
 
-## Workflow Modeling
+## Datasets Summary
+
+This project utilizes transaction and customer data from 2023:
+
+1. *credit_card.csv* – Transaction records for the entire year.
+
+- Client_Num serves as a foreign key.
+- No primary key; a composite key is required.
+
+2. *customer.csv* – Demographic details of customers who made transactions.
+
+- Client_Num is the primary key.
+
+3. *cc_add.csv* and *cust_add.csv* - Additional data for main datasets 
+
+## Workflow Design
 
 ![Diagram](images/CC-Report-Diagram.png)
 
