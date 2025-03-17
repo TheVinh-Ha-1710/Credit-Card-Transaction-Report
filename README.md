@@ -2,11 +2,9 @@
 
 ## 🪟 Overview
 
-The problem addressed in this project is the need to analyze and extract valuable insights from a large dataset of over 10,000 credit card transaction records. Efficient data transformation, storage, and visualization are essential for detecting patterns and improving decision-making.
+Credit card transaction analysis is essential for identifying spending trends, detecting fraud, and optimizing financial strategies. Businesses and banks rely on these insights to enhance customer engagement, manage risks, and drive revenue growth. However, with large volumes of transactions, extracting meaningful patterns can be challenging.
 
-This approach is both stable and sustainable, leveraging Python for robust data processing, PostgreSQL for scalable and efficient storage, and Docker for a portable, consistent environment. The use of Docker ensures that the pipeline can be easily deployed and maintained, providing flexibility and reproducibility for future iterations.
-
-The tech stack was chosen for its reliability and scalability. Python (Pandas, NumPy) is well-suited for data manipulation and transformation. PostgreSQL offers a powerful, open-source database solution that ensures structured data management and fast querying, while Docker ensures ease of deployment across different environments. Power BI was selected for its interactive, user-friendly dashboards, enabling clear, actionable insights. This combination provides a strong foundation for sustainable data pipeline development and visualization.
+This project tackles this issue by analyzing 10,000+ credit card transactions to uncover key trends in customer behavior, payment preferences, and revenue distribution. By transforming raw transaction data into actionable insights, this analysis supports better decision-making, fraud prevention, and personalized financial services.
 
 ## 📁 Dataset Summary
 
